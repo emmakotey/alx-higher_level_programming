@@ -1,2 +1,3 @@
-#!/bin/bash
-python3 -c "import py_compile; py_compile.compile('$PYFILE', '$PYFILE' + 'c')"
+#!/usr/bin/python3
+def magic_calculation(a, b):
+    return (98 + a ** b)

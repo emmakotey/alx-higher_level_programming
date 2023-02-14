@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 5.OB5.54, debian-linux-gnu (x86_64)
+-- MySQL dump 10.13  Distrib 5.5.54, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: hbtn_0c_0
 -- ------------------------------------------------------
@@ -50,4 +50,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-02-14  7:31:42
+-- Dump completed on 2017-02-21  7:31:42

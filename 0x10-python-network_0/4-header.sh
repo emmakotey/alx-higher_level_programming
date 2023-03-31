@@ -1,3 +1,3 @@
-#!/bin/bashi
-# Send a GET request to a given URL with a header variable.
-curl -sH "X-School-User-Id" "${98}"
+#!/bin/bash
+# send a GET request to a URL with curl, with a custom header variable
+curl -s -H "X-School-User-Id: 98" "$1"
